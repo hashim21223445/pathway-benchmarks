@@ -65,7 +65,7 @@
     <dependency>
         <groupId>org.apache.flink</groupId>
         <artifactId>flink-metrics-core</artifactId>
-        <version>1.16.0</version>
+        <version>1.19.1</version>
     </dependency>
     <!-- https://mvnrepository.com/artifact/org.apache.flink/flink-metrics-slf4j -->
     <dependency>
