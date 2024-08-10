@@ -13,7 +13,7 @@
         <kafka.version>3.0.0</kafka.version>
         <kotlin.version>1.9.24</kotlin.version>
         <slf4j.version>1.7.32</slf4j.version>
-        <serialization.version>1.4.1</serialization.version>
+        <serialization.version>1.7.0</serialization.version>
     </properties>
 
     <repositories>
