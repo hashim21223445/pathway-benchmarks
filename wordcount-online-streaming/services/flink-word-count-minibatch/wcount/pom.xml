@@ -23,7 +23,7 @@
     <scala.version>2.12.6</scala.version>
     <scala.compat.version>2.12</scala.compat.version>
     <spec2.version>4.2.0</spec2.version>
-    <flink.version>1.16.1</flink.version>
+    <flink.version>1.19.1</flink.version>
   </properties>
 
   <dependencies>
