@@ -119,7 +119,7 @@
     <dependency>
       <groupId>org.apache.flink</groupId>
       <artifactId>flink-connector-kafka</artifactId>
-      <version>1.16.0</version>
+      <version>4.0.1-2.0</version>
     </dependency>
   </dependencies>
 
